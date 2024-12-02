@@ -1,7 +1,3 @@
-Here’s a **README.md** for the **Diabetics Prediction** repository:
-
----
-
 # Diabetics Prediction
 
 ## Overview
